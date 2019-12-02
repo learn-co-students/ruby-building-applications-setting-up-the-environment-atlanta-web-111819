@@ -1,3 +1,5 @@
+require_relative '../config/environment.rb'
+
 class Garden
   attr_accessor :name
 
